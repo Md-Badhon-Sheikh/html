@@ -9,3 +9,12 @@
     padding: 60px;
     border-radius: 20px;
 }
+.image-section{
+    border: 10px solid;
+    margin: 20px;
+}
+.image{
+    width: 400px;
+    border: 10px solid;
+    margin: 20px;
+}
