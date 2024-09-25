@@ -1,0 +1,10 @@
+.heading{
+    text-align: center;
+
+}
+.para{
+    background-color: aqua;
+    margin: 25px;
+    padding: 60px;
+    border-radius: 20px;
+}
